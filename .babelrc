@@ -1,0 +1,7 @@
+// execute last features ES6
+{
+    "presets": [
+        "env",
+        "stage-0"
+    ]
+}
